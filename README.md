@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/inbo/tutorials.svg?branch=master)](https://travis-ci.org/inbo/tutorials)
 
-This repository contains the source files for the [INBO tutorials website](https://inbo.github.io/tutorials/): a collection of instructions on the use, installation and development of research software at the Research Institute of Nature and Forest (INBO).
+SOPs
 
 ## Adding content
 
