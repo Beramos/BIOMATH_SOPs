@@ -1,5 +1,5 @@
 theme = "minimo"
-baseURL = "https://inbo.github.io/tutorials/"
+baseURL = "https://biomath.ugent.be/BIOMATH_SOPs/"
 languageCode = "en-uk"
 title = "BIOMATH SOPs"
 
